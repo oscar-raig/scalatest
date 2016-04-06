@@ -1,0 +1,2 @@
+To execute:
+sbt run
